@@ -10,7 +10,7 @@ subtitle                 : "Version 1.0" # 타이틀 아래에 나올 작은 글
 name                     : "최인아" # 맨 하단 이름 찍히는 영역
 description              : "간단하고 쉽게 정리하는 백엔드 개발자 블로그" # Meta 태그에 들어가는 영역 
 url                      : "InahChoi/InahChoi.github.io" # GitBlog 호스트 주소
-baseurl                  : # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
+baseurl                  : /blog # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "InahChoi/InahChoi.github.com" # GitHub username/repo-name  
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
@@ -101,53 +101,53 @@ analytics:
 # Site Author
 author:
   name             : "최인아"
-  avatar           : "![profile](https://user-images.githubusercontent.com/52025291/124932629-33684e00-e03e-11eb-9f07-e3fb3827a39f.jpeg)" # 프로필 이미지
-  bio              : "삽질과 꾸준함이 개발의 원동력이 될 거라 믿습니다. <br> 블로그 포스트 글에서 잘못된 부분 적극적으로 댓글 남겨주신다면 감사하겠습니다."
+  avatar           : #"" # 프로필 이미지
+  bio              : "꾸준함이 개발의 원동력이 될 거라 믿습니다. <br> 블로그 글에서 잘못된 부분 댓글 남겨주신다면 감사하겠습니다!"
   location         : "Republic of Korea"
   email            : "choiinah@kakao.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      #icon: "fas fa-fw fa-envelope-square"
       #url: mailto:7271kim@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://inahchoi.github.io/resume/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/seokjin.kim.16"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://www.facebook.com/seokjin.kim.16"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/InahChoi"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      #icon: "fas fa-fw fa-envelope-square"
       # url: mailto:7271kim@naver.com
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      #icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/seokjin.kim.16"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://www.facebook.com/seokjin.kim.16"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      #icon: "fab fa-fw fa-github"
       # url: "https://github.com/7271kim"
     - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+      #icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+      #icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url:
 
 
