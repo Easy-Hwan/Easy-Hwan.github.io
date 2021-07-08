@@ -10,8 +10,8 @@ name                     : "최인아" # 맨 하단 이름 찍히는 영역
 description              : "간단하고 쉽게 정리하는 백엔드 개발자 블로그" # Meta 태그에 들어가는 영역 
 url                      : "InahChoi/InahChoi.github.io" # GitBlog 호스트 주소
 baseurl                  : # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
-repository               : "https://github.com/InahChoi/InahChoi.github.io" # GitHub username/repo-name  
-teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
+repository               : "github.com/InahChoi/InahChoi" # GitHub username/repo-name  
+teaser                   : "/assets/images/profile.jpg" # 홈페이지 기본 티져 이미지
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "Inah World" # 홈페이지 최 상단에 들어갈 타이틀
 breadcrumbs              : true # 브래드크럼 사용 여부 true, false (default) , _data/ui-text.yml에 다국어 지원 가능합니다.
@@ -21,7 +21,7 @@ words_per_minute         : 200 # 해당 포스트 읽는데 걸리는 시간을 
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "inah" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name             : "최인아"
-  avatar           : #"" # 프로필 이미지
+  avatar           : # 프로필 이미지
   bio              : "꾸준함이 개발의 원동력이 될 거라 믿습니다. <br> 블로그 글에서 잘못된 부분 댓글 남겨주신다면 감사하겠습니다!"
   location         : "Republic of Korea"
   email            : "choiinah@kakao.com"
