@@ -10,7 +10,7 @@ name                     : "최인아" # 맨 하단 이름 찍히는 영역
 description              : "간단하고 쉽게 정리하는 백엔드 개발자 블로그" # Meta 태그에 들어가는 영역 
 url                      : "InahChoi/InahChoi.github.io" # GitBlog 호스트 주소
 baseurl                  : # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
-repository               : "InahChoi/InahChoi.github.com" # GitHub username/repo-name  
+repository               : "https://github.com/InahChoi/InahChoi.github.io" # GitHub username/repo-name  
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "Inah World" # 홈페이지 최 상탄에 들어갈 타이틀
