@@ -1,6 +1,6 @@
 # 기본 설명 https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 
-minimal_mistakes_skin    : "mint" # 태마 색 설정 "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" mint",
+minimal_mistakes_skin    : "air" # 태마 색 설정 "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" mint",
 # Site Settings
 locale                   : "ko-KR"
 title                    : "삽질을 즐기는 개발 블로그" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
