@@ -101,13 +101,13 @@ analytics:
 author:
   name             : "최인아"
   avatar           : # 프로필 이미지
-  bio              : "꾸준함이 개발의 원동력이 될 거라 믿습니다. <br> 블로그 글에서 잘못된 부분 댓글 남겨주신다면 감사하겠습니다!"
+  bio              : "꾸준함이 개발의 원동력이<br/> 될 거라 믿습니다. <br> 블로그 글에서 잘못된 부분 댓글 남겨주신다면 감사하겠습니다!"
   location         : "Republic of Korea"
-  email            : "choiinah@kakao.com"
+  #email            : "choiinah@kakao.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:7271kim@naver.com
+      url: "choiinah@kakao.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://inahchoi.github.io/resume/"
